@@ -1,0 +1,17 @@
+nav{
+    background-color:blueviolet;
+    color:white;
+    padding:35px;
+}
+ul,h1,li{
+    display:inline;
+}
+li{
+    color:black;
+}
+li:hover{
+    color:white;
+}
+ul{
+    margin-left:60%;
+}
